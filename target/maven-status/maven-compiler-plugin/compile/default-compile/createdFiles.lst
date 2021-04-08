@@ -1,0 +1,4 @@
+com\socgen\bank\accout\model\Operation.class
+com\socgen\bank\accout\model\Account.class
+com\socgen\bank\accout\services\AccountStatement.class
+com\socgen\bank\accout\Application.class
